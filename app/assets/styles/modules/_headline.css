@@ -1,6 +1,7 @@
 .headline{
   font-weight: 300;
   font-size: 1.9rem;
+  margin-top: 0;
   color: $mainBlue;
 
   @mixin atSmall{
