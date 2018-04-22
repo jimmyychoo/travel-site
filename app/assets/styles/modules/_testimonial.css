@@ -31,12 +31,11 @@
     margin: 0;
   }
 
-  &__subtitle{
+  &__subtitle{ 
     color: $mainOrange;
     text-align: center;
     font-weight: 400;
     font-size: 0.9375rem;
     margin: .25rem 0 1rem 0;
   }
-
 }
