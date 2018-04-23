@@ -2,6 +2,7 @@
   "name": "travel-site",
   "version": "1.0.0",
   "dependencies": {
+    "del": "^3.0.0",
     "jquery": "^3.3.1",
     "normalize.css": "^8.0.0"
   },
@@ -10,6 +11,7 @@
     "browser-sync": "^2.23.6",
     "gulp": "^3.9.1",
     "gulp-postcss": "^7.0.1",
+    "gulp-rename": "^1.2.2",
     "gulp-svg-sprite": "^1.4.0",
     "gulp-watch": "^5.0.0",
     "postcss-import": "^11.1.0",
